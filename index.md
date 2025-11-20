@@ -1,4 +1,4 @@
-# 🧪 Harry Tran — Data & Software Portfolio
+# Harry Tran — Data & Software Portfolio
 
 Welcome! I’m a Medicinal Chemistry PhD researcher transitioning into **data engineering, software development, and data analytics**.
 
@@ -23,7 +23,7 @@ This webistes serves a home for my portfolio of projects focused on building cle
 
 ## Portfolio Projects
 
-### 🟦 Excel Data Analysis 
+### Excel Data Analysis 
 ![badge](https://img.shields.io/badge/Excel-DataAnalysis-blue)  
 Cleaning and analysing a large dataset in Excel: Providing key business insights with an interactive dashboard.  
 
@@ -31,7 +31,7 @@ Cleaning and analysing a large dataset in Excel: Providing key business insights
 
 ---
 
-### 🟩 Python Data Insights  
+### Python Data Insights  
 ![badge](https://img.shields.io/badge/Data-Cleaning-green)  
 Created a full pipeline for exploring raw datasets with visual summaries.  
 
@@ -39,7 +39,7 @@ Created a full pipeline for exploring raw datasets with visual summaries.
 
 ---
 
-### 🟧 Automated Ligand-Based Fragment Growing Pipeline  
+### Automated Ligand-Based Fragment Growing Pipeline  
 ![badge](https://img.shields.io/badge/Python-RDKit-orange)  
 Designed an automated workflow that uses a reference ligand and fragment library to produce structure-similarity scored novel compounds.
 
