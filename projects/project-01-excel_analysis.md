@@ -1,12 +1,10 @@
-# Project 01 - An analysis of the 'Superstore Dataset' available on Kaggle
-(https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+# Project 01 - An analysis of the 'Superstore Dataset'* in Excel
 
 ---
+## Project Goal: “Identify what drives profit and how we can optimise sales performance.”
 
 In this project I highlight my abilities to use Excel proficiently when processing and displaying data.
-I use the platform to extract and display the most important and relevant data.
-
-## Project Goal: “Identify what drives profit and how we can optimise sales performance.”
+I use the platform to extract and display the most important and relevant data. *_Dataset Available [Here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)_
 
 ---
 
@@ -14,7 +12,8 @@ I use the platform to extract and display the most important and relevant data.
 - [Deliverables](#deliverables)
 - [Areas of Interest](#areas-of-interest)
 - [Data Analysis Workflow](#data-analysis-workflow)
-- [Insight Summary](#insight-summary)
+- [Results](#results)
+  - [Dashboard Preview](#dashboard-preview)
   - [Executive Summary](#executive-summary)
   - [Bullet Point Summary](#bullet-point-summary)
   - [Full Insight Summary](#full-insight-summary)
@@ -75,7 +74,13 @@ Operations:
 
 ---
 
-### Insight Summary
+### Results
+
+#### Dashboard Preview
+
+![Dashboard Preview](../assets/dashboard.svg)
+
+
 #### Executive Summary
 
 Overall, the business is profitable, but profit is highly sensitive to discounting and varies significantly across product categories and customer segments. Sales show gradual long-term growth, 
@@ -132,4 +137,4 @@ products produce a loss.
 
 #### Full Insight Summary
 
-[Download Full Insight Summary](assets/Full Insight Summary.pdf)
+[Download Full Insight Summary](../assets/FullInsightSummary.pdf)
