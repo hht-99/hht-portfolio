@@ -35,7 +35,7 @@ Cleaning and analysing a large dataset in Excel: Providing key business insights
 ![badge](https://img.shields.io/badge/Data-Cleaning-green)  
 Created a full pipeline for exploring raw datasets with visual summaries.  
 
-[View Project](projects/data-insights.md)
+[View Project](https://github.com/hht-99/data_and_software-portfolio/blob/main/project-04-python_sql_powerbi/README.md)
 
 ---
 
