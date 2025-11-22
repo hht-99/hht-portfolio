@@ -80,6 +80,8 @@ Operations:
 
 ![Dashboard Preview](../assets/dashboard.svg)
 
+All files associatd with the project are available for viewing or download [here](https://github.com/hht-99/data_and_software-portfolio/tree/main/project-01-excel_analysis)
+
 
 #### Executive Summary
 
