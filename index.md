@@ -27,7 +27,7 @@ This webistes serves a home for my portfolio of projects focused on building cle
 ![badge](https://img.shields.io/badge/Excel-DataAnalysis-blue)  
 Cleaning and analysing a large dataset in Excel: Providing key business insights with an interactive dashboard.  
 
-[View Project](https://github.com/hht-99/data_and_software-portfolio/blob/main/project-01-excel_analysis/README.md)
+[View Project](projects/project-01-excel_analysis.md)
 
 ---
 
