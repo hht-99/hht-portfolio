@@ -2,7 +2,7 @@
 
 Welcome! I’m a Medicinal Chemistry PhD researcher transitioning into **data engineering, software development, and data analytics**.
 
-This webistes serves a home for my portfolio of projects focused on building clean, well-structured analytical and automation projects using  **Python, Pandas, SQL, Git, Excel, and RDKit**.
+This website serves a home for my portfolio of projects focussed on building clean, well-structured analytical and automation projects using  **Python, Pandas, SQL, Git, Excel, and RDKit**.
 
 📍 Leeds, UK  
 📫 tran.harry99@gmail.com  
