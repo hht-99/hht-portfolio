@@ -58,7 +58,7 @@ Operations:
 ### Data Analysis Workflow
 #### Data Inspection
 - Identify column types and classify them (ID, Text, Categorical, Numeric, DateTime)
-- Inpsect whole dataset
+- Inspect whole dataset
 #### Data Cleaning
 - Convert columns to correct number format
 - Perform data checks (Discount sense check, Order date ≤ Ship date, No blanks)
@@ -80,7 +80,7 @@ Operations:
 
 ![Dashboard Preview](../assets/dashboard.svg)
 
-All files associatd with the project are available for viewing or download [here](https://github.com/hht-99/data_and_software-portfolio/tree/main/project-01-excel_analysis)
+All files associated with the project are available for viewing or download [here](https://github.com/hht-99/data_and_software-portfolio/tree/main/project-01-excel_analysis)
 
 
 #### Executive Summary
